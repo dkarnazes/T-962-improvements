@@ -1,8 +1,16 @@
 	.section ".text"
+	//.global logobmp
+	//.global logobmpsize
+//logobmp:
+	//.incbin "../src/images/UEoSlogo-128x64.bmp"
+//logobmpsize:
+	//.word .-logobmp
+
+
 	.global logobmp
 	.global logobmpsize
 logobmp:
-	.incbin "../src/images/UEoSlogo-128x64.bmp"
+	.incbin "../src/images/VRlogo-128x64.bmp"
 logobmpsize:
 	.word .-logobmp
 
