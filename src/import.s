@@ -10,7 +10,7 @@
 	.global logobmp
 	.global logobmpsize
 logobmp:
-	.incbin "../src/images/VRlogo-128x64.bmp"
+	.incbin "../src/images/VRlogo-128x64-white.bmp"
 logobmpsize:
 	.word .-logobmp
 
