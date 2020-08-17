@@ -1,0 +1,5 @@
+2020-08-16 19:14:59,335, INFO, job:123123 Board Number:123123 Operator:123123
+2020-08-16 19:14:59,336, INFO, Starting serial port
+2020-08-16 19:15:00,746, INFO, Serial port configuration:
+2020-08-16 19:15:00,746, INFO, port opened successfully
+2020-08-16 19:15:00,747, INFO, Serial<id=0x3062fb8, open=True>(port='COM3', baudrate=115200, bytesize=8, parity='N', stopbits=1, timeout=50, xonxoff=False, rtscts=False, dsrdtr=False)
